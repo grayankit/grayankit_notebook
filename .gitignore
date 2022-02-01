@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+#dependencies for the backend
+/backend/node_modules
+
 # testing
 /coverage
 
